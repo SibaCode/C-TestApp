@@ -1,0 +1,14 @@
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/bin/Debug/net8.0/TestApp
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/bin/Debug/net8.0/TestApp.deps.json
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/bin/Debug/net8.0/TestApp.runtimeconfig.json
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/bin/Debug/net8.0/TestApp.dll
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/bin/Debug/net8.0/TestApp.pdb
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/TestApp.AssemblyInfoInputs.cache
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/TestApp.AssemblyInfo.cs
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/TestApp.csproj.CoreCompileInputs.cache
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/TestApp.dll
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/refint/TestApp.dll
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/TestApp.pdb
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/TestApp.genruntimeconfig.cache
+/home/sibahle/Documents/Semester 2/AAPD/TestApp/obj/Debug/net8.0/ref/TestApp.dll
